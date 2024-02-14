@@ -2,4 +2,4 @@
 
 ## Stacks - Fullstack
 
-``` by VetVictor33 ```
+``` by @VetVictor33 ```
