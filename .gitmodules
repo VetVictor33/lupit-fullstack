@@ -1,0 +1,6 @@
+[submodule "lupit-frontend"]
+	path = lupit-frontend
+	url = git@github.com:VetVictor33/lupit-frontend.git
+[submodule "lupit-backend"]
+	path = lupit-backend
+	url = git@github.com:VetVictor33/lupit-backend.git
